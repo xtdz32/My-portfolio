@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:goldenrod;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
