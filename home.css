@@ -2,10 +2,72 @@ body{
     margin: 0;
     padding: 0;
 }
-nav{
-    background-color:goldenrod;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 
+
+#logo{
+    display: flex;
+    margin: 10px;
+    
+    
+}
+
+nav{
+    
+    display: flex;
+    justify-content: space-between
+    align-items: center;
+    display: block;
+    font-size: 10px;
+    color: white;
+    padding: 0;
+    
+
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    font-size: large;
+    font-weight: bold;
+    align-self: center;
+    position: relative;
+    justify-content: space-between;
+    color: wheat;
+
+   
+    
+}
+
+
+
+
+
+#bcg{
+    margin: 0;
+    padding: 0;
+    background: url(./Images/high.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+
+#writeup{
+    
+    
+    
+    
+}
+
+h3{
+    color: white;
+    margin: 5px;
+}
+h2{
+    color:wheat ;
+}
+
+h1{
+    color:wheat ;
 }

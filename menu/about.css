@@ -1,0 +1,27 @@
+nav{
+    
+    display: flex;
+    justify-content: space-between
+    align-items: center;
+    display: block;
+    font-size: 10px;
+    color: white;
+    padding: 0;
+    
+
+}
+
+
+ul{
+    list-style: none;
+    display: flex;
+    font-size: large;
+    font-weight: bold;
+    align-self: center;
+    position: relative;
+    justify-content: space-between;
+    color: wheat;
+
+   
+    
+}
